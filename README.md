@@ -1,5 +1,11 @@
 # avro-schema-registry
 
+## Running on Ubuntu
+install ruby 2.7
+apt-get install ruby 2.7
+
+ apt install libpq-dev build-essential
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 [![Build Status](https://circleci.com/gh/salsify/avro-schema-registry.svg?style=svg)][circleci]
